@@ -1,0 +1,10 @@
+Juan Manuel Bautista Pulido
+Prueba técnica, Galápago
+
+
+1) Instalacion de expo para facilitar el desarrollo 
+2) Instalacion de React-native screens para facilitar el uso de la app por parte del usuario
+3)
+
+
+
